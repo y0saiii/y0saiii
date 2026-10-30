@@ -83,9 +83,6 @@ Check the repository for current features, updates, and project details.
 <div align="center">
 
 <a href="https://github.com/y0saiii">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=y0saiii&show_icons=true&hide_border=true&bg_color=12070A&title_color=FF5268&text_color=F5E9EB&icon_color=FF5268&ring_color=C1122F&include_all_commits=true" alt="Kazu's GitHub statistics" />
-</a>
-<a href="https://github.com/y0saiii">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0saiii&layout=compact&hide_border=true&bg_color=12070A&title_color=FF5268&text_color=F5E9EB&langs_count=6" alt="Kazu's most-used languages" />
 </a>
 
